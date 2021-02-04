@@ -1,2 +1,2 @@
 # sqlalchemy_pavyzdys
-Čia sqlalchemy progrqamos pavyzdys
+Čia sqlalchemy programos pavyzdys
